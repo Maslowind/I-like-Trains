@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\Учеба\ISD\I like trains\I like trains\bin\Debug\I like trains.exe.config
+C:\Users\user\Desktop\Учеба\ISD\I like trains\I like trains\bin\Debug\I like trains.exe
+C:\Users\user\Desktop\Учеба\ISD\I like trains\I like trains\bin\Debug\I like trains.pdb
+C:\Users\user\Desktop\Учеба\ISD\I like trains\I like trains\obj\Debug\I like trains.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Учеба\ISD\I like trains\I like trains\obj\Debug\I_like_trains.Form1.resources
+C:\Users\user\Desktop\Учеба\ISD\I like trains\I like trains\obj\Debug\I_like_trains.Properties.Resources.resources
+C:\Users\user\Desktop\Учеба\ISD\I like trains\I like trains\obj\Debug\I like trains.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Учеба\ISD\I like trains\I like trains\obj\Debug\I like trains.exe
+C:\Users\user\Desktop\Учеба\ISD\I like trains\I like trains\obj\Debug\I like trains.pdb
